@@ -1,6 +1,4 @@
-Certainly! Here's an updated version with emojis and a tagline to add some flair:
 
----
 
 # CrewAI Task Management System 🚀
 
@@ -52,18 +50,4 @@ CrewAI empowers your HR workflows with specialized agents handling critical task
 
 - **Agent:** Training Developer
 
-## Tools 🛠️
 
-CrewAI provides essential tools to support these tasks effectively:
-
-```python
-from crewai import Task
-from tools import get_all_tools
-from hr_agents import recruitment_specialist, interviewer, onboarding_specialist, employee_relations_manager, training_developer
-
-tools = list(get_all_tools().values())  # Convert dictionary to list
-```
-
----
-
-Feel free to customize and use this enhanced `readme.md` template for your documentation needs!
